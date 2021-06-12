@@ -1,0 +1,6 @@
+.counter {
+  display: flex;
+  flex-direction: column;
+  font-size: 250px;
+  text-align: center;
+}
